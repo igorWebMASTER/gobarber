@@ -1,4 +1,4 @@
-#<h1> Gobarber <h1>
+<h1> Gobarber <h1>
 
 <h2> Aplicação Web do projeto Gobarber </h2>
 <p> Utilizei o redux para gerenciamento de de estados da aplicação e várias outras libs como :</p>
@@ -12,3 +12,5 @@
    <li>History</li>
    <li>Immer</li>
 </ul>
+
+![print aplicação web Gobarber](tmp/dark-mode-gobarber-web.png)
